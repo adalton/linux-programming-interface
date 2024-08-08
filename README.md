@@ -1,2 +1,3 @@
-# linux-programming-interface
-Solutions to the Exercises in the Linux Programming Interface book.
+# Linux Programming Interface
+This repository contains my solutions to the Exercises in the the book
+_Linux Programming Interface_ by Michael Kerrisk.
